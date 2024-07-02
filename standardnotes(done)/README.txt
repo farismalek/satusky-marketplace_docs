@@ -1,0 +1,1 @@
+docker pull standardnotes/web:latest
